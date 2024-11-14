@@ -15,6 +15,6 @@ void loop() {
   }
 }
 /*
-
+delay(500) mani delay diya blinking
 This code reads an analog value from pin A0, 
 prints it to the serial monitor, and turns an LED on pin 13 on or off based on whether the value is greater than 500. */
